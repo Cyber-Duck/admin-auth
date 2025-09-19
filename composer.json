@@ -28,7 +28,7 @@
     ],
     "require": {
         "php": "^8.3",
-        "brackets/admin-ui": "^4.0",
+        "brackets/admin-ui": "dev-laravel-11",
         "brackets/media": "dev-laravel-11",
         "illuminate/support": "^11.0",
         "spatie/laravel-permission": "^3.0|^4.0|^5.0|^5.10"
