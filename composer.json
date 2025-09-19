@@ -28,8 +28,8 @@
     ],
     "require": {
         "php": "^8.3",
-        "brackets/admin-ui": "dev-laravel-11",
-        "brackets/media": "dev-laravel-11",
+        "brackets/admin-ui": "^1.0",
+        "brackets/media": "^1.0",
         "illuminate/support": "^11.0",
         "spatie/laravel-permission": "^6.0"
     },
